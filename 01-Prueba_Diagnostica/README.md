@@ -15,14 +15,15 @@ Para instalar las dependencias de Python necesarias, ejecuta:
 pip install chess python-tkinter
 \`\`\`
 
-**Librerías principales:**
-- `re` - Expresiones regulares (incluida en Python)
-- `chess` - Notación FEN y ajedrez
-- `tkinter` - Interfaz gráfica (incluida en Python)
-- `time` - Medición de tiempo (incluida en Python)
-- `os` - Operaciones del sistema (incluida en Python)
-- `fs` - Sistema de archivos (incluida en Python)
-- `path` - Rutas de archivos (incluida en Python)
+| Librería | Descripción |
+|----------|-------------|
+| `re` | Expresiones regulares (incluida en Python) |
+| `chess` | Notación FEN y ajedrez |
+| `tkinter` | Interfaz gráfica (incluida en Python) |
+| `time` | Medición de tiempo (incluida en Python) |
+| `os` | Operaciones del sistema (incluida en Python) |
+| `fs` | Sistema de archivos (incluida en Python) |
+| `path` | Rutas de archivos (incluida en Python) |
 
 ### JavaScript / Node.js
 Para instalar las dependencias de JavaScript, ejecuta:
@@ -35,10 +36,11 @@ yarn install
 pnpm install
 \`\`\`
 
-**Librerías principales:**
-- `fs` - Sistema de archivos (incluida en Node.js)
-- `path` - Rutas de archivos (incluida en Node.js)
-- `prompt-sync` - Entrada de usuario en consola
+| Librería | Descripción |
+|----------|-------------|
+| `fs` | Sistema de archivos (incluida en Node.js) |
+| `path` | Rutas de archivos (incluida en Node.js) |
+| `prompt-sync` | Entrada de usuario en consola |
 
 ---
 
