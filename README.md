@@ -1,4 +1,4 @@
-# Lenguajes-Compiladores---Codes
+# Lenguajes&Compiladores - Codes
 
 Este repositorio contiene las actividades y códigos de la materia de **Lenguajes y Compiladores**.  
 Aquí se organizan ejercicios, pruebas y proyectos en carpetas, y se irá actualizando con nuevas actividades.
