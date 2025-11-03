@@ -25,15 +25,19 @@ pip install chess python-tkinter
 | `fs` | Sistema de archivos (incluida en Python) |
 | `path` | Rutas de archivos (incluida en Python) |
 
+
 ### JavaScript / Node.js
 Para instalar las dependencias de JavaScript, ejecuta:
 
 ```bash
-npm install
-# o si usas yarn:
-yarn install
-# o si usas pnpm:
-pnpm install
+# con npm
+npm install prompt-sync
+
+# con yarn
+yarn add prompt-sync
+
+# con pnpm
+pnpm add prompt-sync
 ```
 
 | Librería | Descripción |
