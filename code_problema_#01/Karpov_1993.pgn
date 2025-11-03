@@ -1,0 +1,91 @@
+[Event "AUT-chT"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Duer, Arne"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2390"]
+[ECO "A53"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Bf5 4.f3 e5 5.e4 exd4 6.Qxd4 Be6 7.b3 Nbd7 8.Nge2 Be7
+9.Nf4 O-O 10.Be2 c6 11.Be3 Re8 12.Qd2 Nb6 13.O-O d5 14.cxd5 cxd5 15.Bb5 Rf8
+16.e5 Nfd7 17.Bd4 Nb8 18.Rad1 Nc6 19.Bxc6 bxc6 20.Nd3 Bf5 21.Nc5 Nd7 22.N3a4 Re8
+23.Qc3 Nxc5 24.Nxc5 Bf8 25.Rfe1 h6 26.Rc1 Rc8 27.b4 Qc7 28.a3 Qb8 29.Nb3 Rc7
+30.Na5 Re6 31.Bf2 Rc8 32.Nb3 Rg6 33.Bc5 Bxc5+ 34.Nxc5 a5 35.bxa5 Qa7 36.Re3 Rb8
+37.a4 Rd8 38.Qd4 Rb8 39.Nb3 Qe7 40.f4 Qa3 41.Ra1 Qe7 42.a6 h5 43.Nc5 Qa7
+44.h3 Be4 45.Ra2 Rb1+ 46.Kh2 h4 47.Rd2 Bf5 48.Ree2 Rg3 49.e6 fxe6 50.Nxe6 Qxa6
+51.Ng5 Qc8 52.Re7 Qf8 53.Rde2 Rb8 54.Rf7 Qxf7 55.Nxf7  1-0
+
+[Event "AUT-chT"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Blatny, Pavel"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2725"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.c3 Bd6 6.Bd3 Nge7 7.O-O Bg4 8.Re1 Qd7
+9.Bg5 f6 10.Bh4 O-O 11.Bg3 Rae8 12.Nbd2 Nd8 13.Qc2 g6 14.h3 Bf5 15.Nf1 c6
+16.Ne3 Bxd3 17.Qxd3 Bxg3 18.fxg3 Nf7 19.g4 Nc8 20.Nf1 Ncd6 21.Ng3 Rxe1+ 22.Rxe1 Re8
+23.Re2  1/2-1/2
+
+[Event "Dortmund simul"]
+[Site "Dortmund"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Kloster, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo ""]
+[ECO "C40"]
+
+1.e4 e5 2.Nf3 d5 3.exd5 Bd6 4.Nc3 Nf6 5.Bc4 Qe7 6.O-O O-O 7.d3 h6 8.h3 Bf5
+9.Re1 Nbd7 10.Ne4 Bh7 11.Bb3 Nxe4 12.dxe4 Nc5 13.Nd2 f5 14.exf5 Bxf5 15.Nc4  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Kamsky, Gata"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2655"]
+[BlackElo "2725"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 Nf6 11.Qh4 Ke7 12.Ne5 Bxe5 13.dxe5 Qa5+ 14.c3 Qxe5+ 15.Be3 b6
+16.O-O-O g5 17.Qa4 c5 18.Rhe1 Bd7 19.Qa3 Rhd8 20.g3 Qc7 21.Bd4 Be8 22.Kb1 Rd5
+23.f4 Rad8 24.Bc2 R5d6 25.Bxf6+ Kxf6 26.fxg5+ hxg5 27.Rxd6 Rxd6 28.c4 Ke7
+29.Qe3 f6 30.h4 gxh4 31.gxh4 Qd7 32.Qh6 e5 33.h5 Qg4 34.Qh7+ Kd8 35.h6 Rd2
+36.Qf5 Qxf5 37.Bxf5 Bd7 38.Bg6 Rh2 39.h7 Ke7 40.Bd3 Be6 41.Rg1 f5 42.Rg7+ Kf6
+43.Rxa7 e4 44.Be2 f4 45.b3 f3 46.Bd1 Bf5 47.Kc1 Bxh7 48.Rb7 Ke5 49.Rxb6 Rxa2  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Lutz, Christopher"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2725"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4 cxd4 8.Nxd4 Nc6
+9.Nxc6 Bxc6 10.Bf4 Nh5 11.Be3 Qb8 12.g3 f5 13.O-O-O Nf6 14.Bd3 Qb7 15.f3 fxe4
+16.Nxe4 Nxe4 17.fxe4 Bd6 18.Rhf1 Be5 19.Bf4 Qb8 20.Qe2 O-O 21.Qh5 Rxf4 22.gxf4 Bxf4+
+23.Kb1 Qe5 24.Qxe5 Bxe5 25.h3 a5 26.b3 d6 27.Rd2 Be8 28.Kc2 Bg6 29.Rdf2 Rc8
+30.Kd1 Bd4 31.Ra2 Rc5 32.Rg2 Rh5 33.Rf3 Be8 34.Kc2 g6 35.Be2 Re5 36.Bd3 Kg7
+37.Rg4 g5 38.Rf1 Bc5 39.Kb2 Bg6 40.h4 gxh4 41.Rxh4 Rg5 42.Rh2 Rg3 43.Bc2 Bd4+
+44.Kc1 a4 45.bxa4 Rxa3 46.Kd2 Rg3 47.Bd3 Rg5 48.Rfh1 Be5 49.Rh3 Bd4 50.R3h2 Rg3
+51.Rf1 Bf6 52.Rb1 Bg5+ 53.Kc2 Be3 54.Ra1 Bg1 55.Rd2 Kf6 56.a5 bxa5 57.Rxa5 Bc5
+58.Ra1 Ke5 59.Rf1 Bg1 60.Rdd1 Be3 61.Rf8 Rg2+ 62.Kb3 Rh2 63.Bb1 Bh5 64.Re1 Bf2
+65.Rf1 Bc5 66.Re1 Be2 67.Ba2 Rh3+ 68.Kb2 Ba3+ 69.Ka1 Bd3 70.Bb1 Bb4 71.Rc1 Bd2
+72.Rd1 Bc3+ 73.Ka2 Bxc4+ 74.Ka3 Be2  0-1
