@@ -6,6 +6,42 @@ Cada ejercicio está organizado en su propia subcarpeta `code_problema_#01` hast
 
 ---
 
+## 📋 Requisitos
+
+### Python
+Para instalar las dependencias de Python necesarias, ejecuta:
+
+\`\`\`bash
+pip install chess python-tkinter
+\`\`\`
+
+**Librerías principales:**
+- `re` - Expresiones regulares (incluida en Python)
+- `chess` - Notación FEN y ajedrez
+- `tkinter` - Interfaz gráfica (incluida en Python)
+- `time` - Medición de tiempo (incluida en Python)
+- `os` - Operaciones del sistema (incluida en Python)
+- `fs` - Sistema de archivos (incluida en Python)
+- `path` - Rutas de archivos (incluida en Python)
+
+### JavaScript / Node.js
+Para instalar las dependencias de JavaScript, ejecuta:
+
+\`\`\`bash
+npm install
+# o si usas yarn:
+yarn install
+# o si usas pnpm:
+pnpm install
+\`\`\`
+
+**Librerías principales:**
+- `fs` - Sistema de archivos (incluida en Node.js)
+- `path` - Rutas de archivos (incluida en Node.js)
+- `prompt-sync` - Entrada de usuario en consola
+
+---
+
 ## 📁 Contenido de los ejercicios
 
 ### 1️⃣ Problema 01 – Validador FEN (`code_problema_#01`)
@@ -48,4 +84,4 @@ Permite seleccionar archivos `.c` mediante menú interactivo y guarda la traducc
 
 ---
 
-> Cada subcarpeta contiene los códigos y archivos de salida correspondientes.  
+> Cada subcarpeta contiene los códigos y archivos de salida correspondientes.
