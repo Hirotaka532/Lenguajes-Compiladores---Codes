@@ -16,7 +16,7 @@ Los ejercicios incluyen:
 - Reconocimiento de cadenas para notación científica, direcciones IP y correos electrónicos.  
 - Análisis de programas en C para detectar palabras reservadas y traducirlas al español.
 
-[Ir a la carpeta de la Prueba Diagnóstica](./#01-Prueba_Diagnostica/)
+[Ir a la carpeta de la Prueba Diagnóstica](./01-Prueba_Diagnostica/)
 
 ---
 
