@@ -11,7 +11,7 @@ Cada ejercicio está organizado en su propia subcarpeta `code_problema_#01` hast
 ### Python
 Para instalar las dependencias de Python necesarias, ejecuta:
 
-\`\`\`bash
+\`\`\`
 pip install chess python-tkinter
 \`\`\`
 
