@@ -11,9 +11,9 @@ Cada ejercicio está organizado en su propia subcarpeta `code_problema_#01` hast
 ### Python
 Para instalar las dependencias de Python necesarias, ejecuta:
 
-\`\`\`
+```bash
 pip install chess python-tkinter
-\`\`\`
+```
 
 | Librería | Descripción |
 |----------|-------------|
@@ -28,13 +28,13 @@ pip install chess python-tkinter
 ### JavaScript / Node.js
 Para instalar las dependencias de JavaScript, ejecuta:
 
-\`\`\`bash
+```bash
 npm install
 # o si usas yarn:
 yarn install
 # o si usas pnpm:
 pnpm install
-\`\`\`
+```
 
 | Librería | Descripción |
 |----------|-------------|
