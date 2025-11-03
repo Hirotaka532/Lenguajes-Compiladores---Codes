@@ -22,8 +22,6 @@ pip install chess python-tkinter
 | `tkinter` | Interfaz gráfica (incluida en Python) |
 | `time` | Medición de tiempo (incluida en Python) |
 | `os` | Operaciones del sistema (incluida en Python) |
-| `fs` | Sistema de archivos (incluida en Python) |
-| `path` | Rutas de archivos (incluida en Python) |
 
 
 ### JavaScript / Node.js
