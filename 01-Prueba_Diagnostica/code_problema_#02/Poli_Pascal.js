@@ -1,11 +1,3 @@
-// ============================
-//  Poli_Pascal.js
-//  Descripción:
-//  Genera los coeficientes del polinomio (x+1)^n usando el Triángulo de Pascal.
-//  Evalúa f(x) = (x+1)^n paso a paso y mide el tiempo de ejecución.
-//  Guarda los resultados en resultados_js.txt
-// ============================
-
 const fs = require("fs");
 const path = require("path");
 const prompt = require("prompt-sync")({ sigint: true });
@@ -94,5 +86,6 @@ function main() {
   fs.appendFileSync(rutaArchivo, contenido, "utf-8");
   console.log("\n🗸 Resultados guardados en 'resultados_js.txt'");
 }
+
 
 main();
