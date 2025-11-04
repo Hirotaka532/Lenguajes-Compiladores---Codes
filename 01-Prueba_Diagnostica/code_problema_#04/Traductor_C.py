@@ -1,11 +1,3 @@
-# ============================
-#  Traductor_C.py
-#  Descripción:
-#  Lee un programa escrito en C, detecta palabras reservadas
-#  y genera una versión traducida al español.
-#  La lectura del archivo es dinámica, con menú de opciones.
-# ============================
-
 import re
 import os
 import tkinter as tk
@@ -118,4 +110,5 @@ def menu():
             print("❕ Opción no válida. Intente de nuevo.")
 
 if __name__ == "__main__":
+
     menu()
