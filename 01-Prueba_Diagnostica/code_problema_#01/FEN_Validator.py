@@ -1,11 +1,3 @@
-# ============================
-#  FEN_Validator.py
-#  Descripción:
-#  Programa que valida cadenas en notación FEN (Forsyth–Edwards Notation).
-#  Permite cargar un archivo .pgn y validar las posiciones generadas,
-#  o introducir manualmente una cadena FEN para su verificación.
-# ============================
-
 import re
 import chess.pgn
 import tkinter as tk
@@ -149,4 +141,5 @@ def menu():
             print("❕ Opción no válida. Intente de nuevo.")
 
 if __name__ == "__main__":
+
     menu()
