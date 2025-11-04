@@ -1,11 +1,3 @@
-# ============================
-#  Poli_Pascal.py
-#  Descripción:
-#  Genera los coeficientes del polinomio (x+1)^n usando el Triángulo de Pascal.
-#  Evalúa f(x) = (x+1)^n paso a paso y mide el tiempo de ejecución.
-#  Guarda los resultados en resultados.txt
-# ============================
-
 import time
 import os
 
@@ -91,4 +83,5 @@ def main():
     print("\n🗸 Resultados guardados en 'resultados_py.txt'")
 
 if __name__ == "__main__":
+
     main()
