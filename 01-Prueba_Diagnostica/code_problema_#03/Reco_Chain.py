@@ -1,13 +1,3 @@
-# ============================
-#  Reco_chain.py
-#  Descripción:
-#  Programa para reconocer tipos de cadenas:
-#    - Notación científica (ej: 2.5e-10)
-#    - Dirección IP (ej: 192.168.0.1)
-#    - Correo electrónico (ej: nombre@dominio.com)
-#  Permite ingresar cadenas desde consola y muestra a qué tipo pertenece.
-# ============================
-
 import re
 
 # Expresiones regulares
@@ -47,4 +37,5 @@ def menu():
             print("Opción no válida, ingresa 1 o 2.")
 
 if __name__ == "__main__":
+
     menu()
