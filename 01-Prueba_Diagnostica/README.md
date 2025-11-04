@@ -88,10 +88,10 @@ Permite seleccionar archivos `.c` mediante menú interactivo y guarda la traducc
 
 ---
 
-> Cada subcarpeta contiene los códigos y archivos de salida correspondientes.
+## 💻 Link de la defensa
+
+[Acceder a la defensa](AQUÍ_PON_TU_LINK)
 
 ---
 
-## 🔗 Link de la defensa
-
-[Acceder a la defensa](AQUÍ_PON_TU_LINK)
+> Cada subcarpeta contiene los códigos y archivos de salida correspondientes.
