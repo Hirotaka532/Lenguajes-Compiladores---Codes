@@ -92,9 +92,7 @@ Permite seleccionar archivos `.c` mediante menú interactivo y guarda la traducc
 
 [Acceder a la defensa](https://www.youtube.com/watch?v=D_M3Md_2ndA)
 
-> ⚠️ **Nota:** Por motivos de políticas de privacidad y protección de datos personales de YouTube,  
-> la defensa fue configurada como **video privado**.  
-> Sin embargo, se otorgó acceso exclusivo al profesor para su revisión.
+> ⚠️ **Nota:** Por motivos de políticas de privacidad y protección de datos personales de YouTube,  la defensa fue configurada como **video privado**.  Sin embargo, se otorgó acceso exclusivo al profesor para su revisión.
 
 ---
 
