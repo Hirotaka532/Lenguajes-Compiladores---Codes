@@ -18,6 +18,11 @@ Los ejercicios incluyen:
 
 [Ir a la carpeta de la Prueba Diagnóstica](./01-Prueba_Diagnostica/)
 
+2. **Analizador Léxico (Lexer)**
+Esta carpeta contiene un analizador desarrollado en Python para procesar archivos de configuración de Docker, identificando instrucciones y argumentos.
+
+[Ir a la carpeta del Analizador Léxico](./02-Analizador_Léxico/)
+
 ---
 
 > Este README se actualizará conforme se suban nuevas actividades y códigos.
