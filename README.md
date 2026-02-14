@@ -21,7 +21,7 @@ Los ejercicios incluyen:
 2. **Analizador Léxico (Lexer)**
 Esta carpeta contiene un analizador desarrollado en Python para procesar archivos de configuración de Docker, identificando instrucciones y argumentos.
 
-[Ir a la carpeta del Analizador Léxico](./02-Analizador_Léxico/)
+[Ir a la carpeta del Analizador Léxico](./02-Analizador_Lexico/)
 
 ---
 
