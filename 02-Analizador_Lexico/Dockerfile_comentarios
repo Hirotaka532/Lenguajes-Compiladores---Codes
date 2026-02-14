@@ -1,0 +1,11 @@
+# Imagen base del contenedor
+FROM python:3.10
+
+# Directorio de trabajo
+WORKDIR /app
+
+# Copia del código fuente
+COPY . /app
+
+RUN pip install flask
+CMD ["python", "app.py"]

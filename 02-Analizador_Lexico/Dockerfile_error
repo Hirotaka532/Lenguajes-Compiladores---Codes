@@ -1,0 +1,6 @@
+# Dockerfile con error
+FR0M ubuntu:20.04
+WORKDIR /app
+COPY . /app
+RUN apt-get update
+CMD ["bash"]
