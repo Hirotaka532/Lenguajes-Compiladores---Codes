@@ -33,4 +33,4 @@ El analizador LL no requiere librerías externas. Sin embargo, el analizador LR 
 pip install ply
 ```
 
-Nota: Al ejecutar parser_lr.py, la librería PLY generará automáticamente dos archivos: parsetab.py y parser.out. Estos contienen las tablas de estados del autómata y son necesarios para el funcionamiento del analizador.
+**Nota:** Al ejecutar `parser_lr.py`, la librería PLY generará automáticamente dos archivos: `parsetab.py` y `parser.out`. Estos contienen las tablas de estados del autómata y son necesarios para el funcionamiento del analizador.
