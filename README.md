@@ -7,7 +7,8 @@ Aquí se organizan ejercicios, pruebas y proyectos en carpetas, y se irá actual
 
 ## 📂 Actividades
 
-1. **Prueba Diagnóstica** 
+1. **Prueba Diagnóstica**
+
 Esta carpeta contiene la **Prueba Diagnóstica**, donde se resolvieron ejercicios de programación y análisis de cadenas en distintos lenguajes.  
 Los ejercicios incluyen:
 
@@ -19,11 +20,13 @@ Los ejercicios incluyen:
 [Ir a la carpeta de la Prueba Diagnóstica](./01-Prueba_Diagnostica/)
 
 2. **Analizador Léxico (Lexer)**
+
 Esta carpeta contiene un analizador desarrollado en Python para procesar archivos de configuración de Docker, identificando instrucciones y argumentos.
 
 [Ir a la carpeta del Analizador Léxico](./02-Analizador_Lexico/)
 
 3. **Analizadores Sintácticos (LL y LR)**
+
 Esta sección contiene el desarrollo práctico sobre gramáticas formales para expresiones aritméticas:
 
 - **Analizador LL(1):** Implementado mediante Descenso Recursivo manual en Python, con transformación de gramática para eliminar la recursión izquierda.
